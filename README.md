@@ -20,11 +20,10 @@
 
 ## About me:
 
-- 🌱 I’m currently learning about Machine Learning and Artificial Intelligence
-- 🤝 I’m looking to collaborate on open-source projects
-- 💬 Ask me about Embedded Systems, Robotics, and Software Development
-- 📫 How to reach me: mason.wheeler@email.com
-- 😄 Pronouns: He/Him
+-  I’m currently learning about Machine Learning and Artificial Intelligence
+-  I’m looking to collaborate on open-source projects
+-  Ask me about Embedded Systems, Robotics, and Software Development
+-  How to reach me: mason.wheeler@email.com
 - ⚡ Fun fact: I love hiking and exploring the great outdoors 🌲
 
 ## Skills:
@@ -40,8 +39,8 @@
 
 ## GitHub Stats:
 
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonwheeler&count_private=true&show_icons=true&theme=radical)
+![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonJamesWheeler&count_private=true&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonwheeler&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonJamesWheeler&layout=compact&theme=radical)
 
 </div>
