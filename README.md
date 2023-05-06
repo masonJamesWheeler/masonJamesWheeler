@@ -9,13 +9,13 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/mason-wheeler-438372198/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%23000.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/mason_1225" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/twitter-%23000.svg?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/masewheeler" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000.svg?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 ## About me:
