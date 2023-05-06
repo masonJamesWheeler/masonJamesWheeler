@@ -23,8 +23,8 @@
 -  I’m currently learning about Machine Learning and Artificial Intelligence
 -  I’m looking to collaborate on open-source projects
 -  Ask me about Embedded Systems, Robotics, and Software Development
--  How to reach me: mason.wheeler@email.com
-- ⚡ Fun fact: I love hiking and exploring the great outdoors 🌲
+-  How to reach me: mwheel@uw.edu
+- ⚡ Fun fact: passionette about stoicism and philosophy
 
 ## Skills:
 
