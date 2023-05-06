@@ -3,7 +3,7 @@
 # Hi there, I'm Mason Wheeler! 👋
 
 <p>
-  I'm an Electrical and Computer Engineering student at the University of Washington 🎓, passionate about technology and innovation. I'm always eager to learn and explore new ideas 💡.
+  I'm an Electrical and Computer Engineering student athlete at the University of Washington, passionate about technology and innovation. I'm always eager to learn and explore new ideas!.
 </p>
 
 ## Connect with me:
@@ -40,7 +40,5 @@
 ## GitHub Stats:
 
 ![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonJamesWheeler&count_private=true&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonJamesWheeler&layout=compact&theme=radical)
 
 </div>
