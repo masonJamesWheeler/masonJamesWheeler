@@ -39,6 +39,6 @@
 
 ## GitHub Stats:
 
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonwheeler&count_private=true&show_icons=true&bg_color=000&title_color=fff&icon_color=fff&text_color=fff)
+![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonJamesWheeler&count_private=true&show_icons=true&bg_color=000&title_color=fff&icon_color=fff&text_color=fff)
 
 </div>
