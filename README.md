@@ -3,7 +3,7 @@
 # Hi there, I'm Mase!
 
 <p>
-  I'm an Electrical and Computer Engineering student athlete at the University of Washington, passionate about technology and innovation. I'm always eager to learn and explore new ideas!.
+  I'm an Electrical and Computer Engineering student athlete at the University of Washington, passionate about technology and innovation. I'm always eager to learn and explore new ideas!
 </p>
 
 ## Connect with me:
