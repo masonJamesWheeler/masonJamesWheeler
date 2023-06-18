@@ -24,7 +24,7 @@
 -  I’m looking to collaborate on open-source projects
 -  Ask me about Embedded Systems, Robotics, and Software Development
 -  How to reach me: masewheeler@outlook.com
-- ⚡ Fun fact: passionette about stoicism and philosophy
+- ⚡ Fun fact: passionate about stoicism and philosophy
 
 ## Skills:
 
@@ -36,9 +36,4 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-## GitHub Stats:
-
-![Mason's GitHub stats](https://github-readme-stats.vercel.app/api?username=masonJamesWheeler&count_private=true&show_icons=true&bg_color=000&title_color=fff&icon_color=fff&text_color=fff)
-
 </div>
