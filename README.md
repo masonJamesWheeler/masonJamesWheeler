@@ -16,7 +16,7 @@
 
 ## About me:
 
--  University of Washington ECE Grad! UW Football ALUM - Boeing Defense
+-  University of Washington ECE Grad - UW Football ALUM - Boeing
 
 ## Skills:
 
