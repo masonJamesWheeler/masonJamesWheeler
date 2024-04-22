@@ -16,8 +16,7 @@
 
 ## About me:
 
--  I’m currently an Electrical and Computer Engineering Student Athlete at the University of Washington.
--  I have an Australian Shepherd named Maverick!
+-  University of Washington ECE Grad! UW Football ALUM - Boeing Defense
 
 ## Skills:
 
