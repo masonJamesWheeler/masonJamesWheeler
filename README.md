@@ -2,8 +2,6 @@
 
 # Hi there, I'm Mase!
 
-## Connect with me:
-
 ## About me:
 
 -  University of Washington ECE Grad - UW Football ALUM - Boeing
