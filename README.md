@@ -2,7 +2,7 @@
 
 # About Me
 
-I am a HPC and Quantum Software Engineer at Microsoft Quantum
+HPC and Quantum Software Engineer at Microsoft Quantum
 
 </div>
 
